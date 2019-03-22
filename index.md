@@ -14,5 +14,5 @@
 	13. [Specialní Aplikační Software - Technické Kresleni]
 	14. [Zakladý Společenských Věd]
 	
-###Quotes
+### Quotes
 <p>“The only true wisdom is in knowing you know nothing.” Socrates</p>
