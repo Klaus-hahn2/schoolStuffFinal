@@ -15,5 +15,5 @@
 	14. [Zakladý Společenských Věd]
 	
 ### Quotes
-“The only true wisdom is in knowing you know nothing.” 
+“The only true wisdom is in knowing you know nothing.”    
 Socrates
