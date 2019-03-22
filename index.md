@@ -4,7 +4,7 @@
 	2. [Aplikační Software]
 	3. [Chemie]
 	5. [Dějepis]
-	6. [Eletronika]
+	6. [Eletronika](./Eletronika)
 	7. [Fyzika]
 	8. [Hardware]
 	9. [Informační a Komunikační Technika]
